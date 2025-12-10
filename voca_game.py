@@ -14,11 +14,14 @@ with open('words.json', 'r', encoding='utf-8') as f:
 print("*단어를 보고 뜻을 맞춰보세요!*\n")
 random.shuffle(words)
 
+count = 1
+
 for quiz in words:
     word = quiz["word"]
     meaning = quiz["meaning"]
 
     while True:
+        print(f"{count}/50")
         print("단어 : ", word)
         answer = input("뜻 : ").strip()
         print("-------------------")
@@ -35,6 +38,7 @@ for quiz in words:
             print("정답!")
             print(" : ", ", ".join(meaning))
             print("-------------------\n")
+            count += 1
             break
         else:
             print("다시 입력하세요\n")
