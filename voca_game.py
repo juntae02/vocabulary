@@ -7,11 +7,20 @@
 
 import json
 import random
+import os
 
-with open('words.json', 'r', encoding='utf-8') as f:
+# 원하는 횟수 입력
+day = input("원하는 횟수를 입력하시오 : ").strip()
+pile = "day"+day+".json"
+
+print("찾는 파일:", pile)
+print("존재 여부:", os.path.exists(pile))
+
+
+with open(pile, 'r', encoding='utf-8') as f:
     words = json.load(f)
 
-print("*단어를 보고 뜻을 맞춰보세요!*\n")
+print("\n*단어를 보고 뜻을 맞춰보세요!*\n")
 random.shuffle(words)
 
 count = 1
