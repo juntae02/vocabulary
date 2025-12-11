@@ -140,11 +140,11 @@
     "meaning": ["선언"]
   },
   {
-    "word": "constitute",
+    "word": "*constitute",
     "meaning": ["구성하다"]
   },
   {
-    "word": "constitutional",
+    "word": "*constitutional",
     "meaning": ["헌법의"]
   },
   {
@@ -156,7 +156,7 @@
     "meaning": ["기관", "협회"]
   },
   {
-    "word": "institute",
+    "word": "*institute",
     "meaning": ["기관", "협회", "도입하다"]
   },
   {

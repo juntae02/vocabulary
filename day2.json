@@ -24,7 +24,7 @@
     "meaning": ["결함"]
   },
   {
-    "word": "stable",
+    "word": "*stable",
     "meaning": ["안정적인"]
   },
   {
@@ -32,7 +32,7 @@
     "meaning": ["기업의", "공동의"]
   },
   {
-    "word": "excess",
+    "word": "*excess",
     "meaning": ["과잉", "과도", "초과한"]
   },
   {
@@ -40,7 +40,7 @@
     "meaning": ["초과하다"]
   },
   {
-    "word": ".excessive",
+    "word": "excessive",
     "meaning": ["지나친", "과도한"]
   },
   {
@@ -52,7 +52,7 @@
     "meaning": ["~와일치하는"]
   },
   {
-    "word": "consistent in",
+    "word": "*consistent in",
     "meaning": ["일관된"]
   },
   {
@@ -76,7 +76,7 @@
     "meaning": ["편의", "편의시설"]
   },
   {
-    "word": "foundation",
+    "word": "*foundation",
     "meaning": ["설립", "재단"]
   },
   {
@@ -124,15 +124,15 @@
     "meaning": ["처리", "처분"]
   },
   {
-    "word": "dispose of",
+    "word": "*dispose of",
     "meaning": ["~을처리하다"]
   },
   {
-    "word": "dispose",
+    "word": "*dispose",
     "meaning": ["배치하다"]
   },
   {
-    "word": "dispose to",
+    "word": "**dispose to",
     "meaning": ["~하는경향이있다"]
   },
   {
@@ -176,7 +176,7 @@
     "meaning": ["보안", "담보"]
   },
   {
-    "word": "deposit",
+    "word": "*deposit",
     "meaning": ["예금", "예금하다", "보증금"]
   },
   {
@@ -192,11 +192,11 @@
     "meaning": ["처방", "처방전"]
   },
   {
-    "word": "remedy",
+    "word": "*remedy",
     "meaning": ["치료", "치료약", "바로잡다"]
   },
   {
-    "word": "cure",
+    "word": "*cure",
     "meaning": ["치료", "치료법", "고치다"]
   }
 ]
