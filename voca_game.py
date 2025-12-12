@@ -11,7 +11,7 @@ import os
 
 # 원하는 횟수 입력
 day = input("원하는 횟수를 입력하시오 : ").strip()
-pile = "day"+day+".json"
+pile = os.path.join("day", f"{day}.json")
 
 print("찾는 파일:", pile)
 print("존재 여부:", os.path.exists(pile))
