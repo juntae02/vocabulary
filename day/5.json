@@ -8,19 +8,19 @@
     "meaning": ["지표"]
   },
     {
-    "word": "warn",
-    "meaning": ["경고하다"]
+    "word": "marginal",
+    "meaning": ["약간의"]
   },
   {
     "word": "depression",
     "meaning": ["불황"]
   },
   {
-    "word": "prospect",
-    "meaning": ["예상", "전망"]
+    "word": "disregard",
+    "meaning": ["무시", "무시하다"]
   },
   {
-    "word": "lead",
+    "word": "*lead",
     "meaning": ["이끌다", "~에 이르다"]
   },
   {
@@ -44,11 +44,11 @@
     "meaning": ["교환할 수 있는"]
   },
   {
-    "word": "installment",
+    "word": "**installment",
     "meaning": ["할부"]
   },
   {
-    "word": "installation",
+    "word": "**installation",
     "meaning": ["설치", "시설", "장치"]
   },
   {
@@ -56,147 +56,147 @@
     "meaning": ["아끼다", "할애하다", "여분의"]
   },
   {
-    "word": "exclusively",
-    "meaning": ["독점적으로", "오로지"]
+    "word": "injure",
+    "meaning": ["부상을 입히다", "손상시키다"]
   },
   {
-    "word": "exclude",
-    "meaning": ["제외하다", "거부하다"]
+    "word": "remove",
+    "meaning": ["제거하다", "해고하다"]
   },
   {
     "word": "notice",
     "meaning": ["통지", "알아채다"]
   },
   {
-    "word": "acceptable",
-    "meaning": ["받아들일 수 있는"]
+    "word": "mastermind",
+    "meaning": ["지도자", "지도하다"]
   },
   {
-    "word": "alter",
+    "word": "*alter",
     "meaning": ["변경하다", "고치다"]
   },
   {
-    "word": "desire",
-    "meaning": ["욕구", "바라다"]
+    "word": "respondent",
+    "meaning": ["응답자"]
   },
   {
-    "word": "affordable",
-    "meaning": ["감당할 수 있는"]
+    "word": "collection",
+    "meaning": ["모금", "수집품"]
   },
   {
-    "word": "vendor",
-    "meaning": ["판매회사", "노점상"]
+    "word": "*vendor",
+    "meaning": ["판매업체", "노점상"]
   },
   {
-    "word": "clearance",
-    "meaning": ["정리", "허가"]
+    "word": "respectful",
+    "meaning": ["존중하는"]
   },
   {
-    "word": "",
-    "meaning": [""]
+    "word": "clarify",
+    "meaning": ["명확하게 하다"]
   },
   {
-    "word": "",
-    "meaning": [""]
+    "word": "availability",
+    "meaning": ["가능성", "유효성"]
   },
   {
-    "word": "",
-    "meaning": [""]
+    "word": "accurate",
+    "meaning": ["정확한"]
   },
   {
-    "word": "",
-    "meaning": [""]
+    "word": "*envision",
+    "meaning": ["계획하다"]
   },
   {
-    "word": "",
-    "meaning": [""]
+    "word": "revolutionary",
+    "meaning": ["혁명적인", "혁명가"]
   },
   {
-    "word": "",
-    "meaning": [""]
+    "word": "*inquiry",
+    "meaning": ["질문", "연구"]
   },
   {
-    "word": "",
-    "meaning": [""]
+    "word": "injury",
+    "meaning": ["부상"]
   },
   {
-    "word": "",
-    "meaning": [""]
+    "word": "explore",
+    "meaning": ["탐험하다", "분석하다"]
   },
   {
-    "word": "",
-    "meaning": [""]
+    "word": "compatible",
+    "meaning": ["호환되는"]
   },
   {
-    "word": "",
-    "meaning": [""]
+    "word": "following",
+    "meaning": ["그 다음의", "~후에"]
   },
   {
-    "word": "",
-    "meaning": [""]
+    "word": "corrosion",
+    "meaning": ["부식"]
   },
   {
-    "word": "",
-    "meaning": [""]
+    "word": "increasingly",
+    "meaning": ["점점 더"]
   },
   {
-    "word": "",
-    "meaning": [""]
+    "word": "*absolute",
+    "meaning": ["완전한", "완벽한"]
   },
   {
-    "word": "",
-    "meaning": [""]
+    "word": "grant",
+    "meaning": ["보조금", "수여하다", "승인하다", "인정하다"]
   },
   {
-    "word": "",
-    "meaning": [""]
+    "word": "chemical",
+    "meaning": ["화학적인", "화학 제품"]
   },
   {
-    "word": "",
-    "meaning": [""]
+    "word": "capable",
+    "meaning": ["~할 수 있는"]
   },
   {
-    "word": "",
-    "meaning": [""]
+    "word": "*protect",
+    "meaning": ["보호하다"]
   },
   {
-    "word": "",
-    "meaning": [""]
+    "word": "*provent",
+    "meaning": ["예방하다", "막다"]
   },
   {
-    "word": "",
-    "meaning": [""]
+    "word": "trim",
+    "meaning": ["다듬다", "삭감하다"]
   },
   {
-    "word": "",
-    "meaning": [""]
+    "word": "**place",
+    "meaning": ["장소", "~한 상태에 두다", "주문을 하다", "순위를 매기다"]
   },
   {
-    "word": "",
-    "meaning": [""]
+    "word": "automate",
+    "meaning": ["자동화하다"]
   },
   {
-    "word": "",
-    "meaning": [""]
+    "word": "respectively",
+    "meaning": ["각각"]
   },
   {
-    "word": "",
-    "meaning": [""]
+    "word": "maneuver",
+    "meaning": ["이동시키다", "이동하다"]
   },
   {
-    "word": "",
-    "meaning": [""]
+    "word": "component",
+    "meaning": ["부품"]
   },
   {
-    "word": "",
-    "meaning": [""]
+    "word": "fill",
+    "meaning": ["채우다", "충족시키다"]
   },
   {
-    "word": "",
-    "meaning": [""]
+    "word": "specification",
+    "meaning": ["명세서", "설명서"]
   },
   {
-    "word": "",
-    "meaning": [""]
+    "word": "comparable",
+    "meaning": ["비교할 만한", "유사한"]
   }
 ]
