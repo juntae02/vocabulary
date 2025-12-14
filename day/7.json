@@ -21,7 +21,7 @@
   },
   {
     "word": "article",
-    "meaning": ["기사", "물품", "조항"]
+    "meaning": ["기사", "물건", "조항"]
   },
   {
     "word": "carton",
@@ -36,7 +36,7 @@
     "meaning": ["공식적으로", "정중하게"]
   },
   {
-    "word": "*distinctive",
+    "word": "distinctive",
     "meaning": ["독특한"]
   },
   {
@@ -64,11 +64,11 @@
     "meaning": ["비율", "요금", "등급", "평가하다", "등급을 매기다"]
   },
   {
-    "word": "*spot",
+    "word": "spot",
     "meaning": ["장소", "발견하다"]
   },
   {
-    "word": "*on the spot",
+    "word": "on the spot",
     "meaning": ["그 자리에서", "곤란한 상황에 처한"]
   },
   {
@@ -88,7 +88,7 @@
     "meaning": ["부탁하다"]
   },
   {
-    "word": "*favor",
+    "word": "favor",
     "meaning": ["호의", "부탁", "찬성하다", "지지하다"]
   },
   {
@@ -144,15 +144,15 @@
     "meaning": ["~하기 쉬운", "책임이 있는"]
   },
   {
-    "word": "*turnover",
+    "word": "turnover",
     "meaning": ["매출액", "이직률", "회전율"]
   },
   {
-    "word": "*exempt",
+    "word": "exempt",
     "meaning": ["면제된", "면제하다"]
   },
   {
-    "word": "*deficit",
+    "word": "deficit",
     "meaning": ["적자", "부족액"]
   },
   {
@@ -160,7 +160,7 @@
     "meaning": ["부수적인"]
   },
   {
-    "word": "*measurement",
+    "word": "measurement",
     "meaning": ["측정", "규격"]
   },
   {
@@ -196,7 +196,7 @@
     "meaning": ["관대하게"]
   },
   {
-    "word": "*restrictive",
+    "word": "restrictive",
     "meaning": ["제한하는"]
   }
 ]

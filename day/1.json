@@ -81,7 +81,7 @@
   },
   {
     "word": "statistics",
-    "meaning": ["통계", "통계자료"]
+    "meaning": ["통계", "통계 자료"]
   },
   {
     "word": "figure",
@@ -93,7 +93,7 @@
   },
   {
     "word": "biannual",
-    "meaning": ["연2회의"]
+    "meaning": ["연 2회의"]
   },
   {
     "word": "generate",
@@ -105,7 +105,7 @@
   },
   {
     "word": "impose A on B",
-    "meaning": ["B에게A를부과하다"]
+    "meaning": ["B에게 A를 부과하다"]
   },
   {
     "word": "impose",
@@ -120,7 +120,7 @@
     "meaning": ["관습적인"]
   },
   {
-    "word": "*convention",
+    "word": "**convention",
     "meaning": ["관습", "대회", "협약"]
   },
   {
@@ -144,7 +144,7 @@
     "meaning": ["구성하다"]
   },
   {
-    "word": "*constitutional",
+    "word": "constitutional",
     "meaning": ["헌법의"]
   },
   {

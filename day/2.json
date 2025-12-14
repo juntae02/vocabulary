@@ -16,15 +16,15 @@
     "meaning": ["약화되다"]
   },
   {
-    "word": "*faulty",
-    "meaning": ["결함이있는"]
+    "word": "faulty",
+    "meaning": ["결함이 있는"]
   },
   {
     "word": "defect",
     "meaning": ["결함"]
   },
   {
-    "word": "*stable",
+    "word": "stable",
     "meaning": ["안정적인"]
   },
   {
@@ -49,19 +49,19 @@
   },
   {
     "word": "consistent with",
-    "meaning": ["~와일치하는"]
+    "meaning": ["~와 일치하는"]
   },
   {
     "word": "*consistent in",
     "meaning": ["일관된"]
   },
   {
-    "word": "consistently",
+    "word": "*consistently",
     "meaning": ["일관되게"]
   },
   {
     "word": "value",
-    "meaning": ["가치", "값", "가치있게여기다"]
+    "meaning": ["가치", "값", "가치있게 여기다"]
   },
   {
     "word": "rough",
@@ -76,16 +76,16 @@
     "meaning": ["편의", "편의시설"]
   },
   {
-    "word": "*foundation",
+    "word": "foundation",
     "meaning": ["설립", "재단"]
   },
   {
     "word": "disabled",
-    "meaning": ["장애를가진", "장애인들"]
+    "meaning": ["장애를 가진", "장애인들"]
   },
   {
     "word": "dependable",
-    "meaning": ["믿을수있는"]
+    "meaning": ["믿을 수 있는"]
   },
   {
     "word": "reliant",
@@ -93,7 +93,7 @@
   },
   {
     "word": "celebrity",
-    "meaning": ["유명인사", "명성"]
+    "meaning": ["유명 인사", "명성"]
   },
   {
     "word": "debate",
@@ -104,7 +104,7 @@
     "meaning": ["각각"]
   },
   {
-    "word": "**exterior",
+    "word": "*exterior",
     "meaning": ["외부", "외부의"]
   },
   {
@@ -125,15 +125,15 @@
   },
   {
     "word": "*dispose of",
-    "meaning": ["~을처리하다"]
+    "meaning": ["~을 처리하다"]
   },
   {
     "word": "*dispose",
     "meaning": ["배치하다"]
   },
   {
-    "word": "**dispose to",
-    "meaning": ["~하는경향이있다"]
+    "word": "*dispose to",
+    "meaning": ["~하는 경향이 있다"]
   },
   {
     "word": "landlord",
@@ -153,7 +153,7 @@
   },
   {
     "word": "invoice(=bill)",
-    "meaning": ["송장", "청구서를보내다"]
+    "meaning": ["송장", "청구서를 보내다"]
   },
   {
     "word": "exchange rate",
@@ -165,11 +165,11 @@
   },
   {
     "word": "afford",
-    "meaning": ["여유가있다"]
+    "meaning": ["여유가 있다"]
   },
   {
     "word": "the date of payment",
-    "meaning": ["지불날짜"]
+    "meaning": ["지불 날짜"]
   },
   {
     "word": "security",
@@ -196,7 +196,7 @@
     "meaning": ["치료", "치료약", "바로잡다"]
   },
   {
-    "word": "*cure",
+    "word": "cure",
     "meaning": ["치료", "치료법", "고치다"]
   }
 ]

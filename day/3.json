@@ -25,7 +25,7 @@
   },
   {
     "word": "clear customs",
-    "meaning": ["세관을통과하다"]
+    "meaning": ["세관을 통과하다"]
   },
   {
     "word": "transport",
@@ -40,12 +40,12 @@
     "meaning": ["우회로", "우회하다"]
   },
   {
-    "word": "*excursion",
+    "word": "excursion",
     "meaning": ["단체여행"]
   },
   {
     "word": "arrange an appointment",
-    "meaning": ["약속을정하다"]
+    "meaning": ["약속을 정하다"]
   },
   {
     "word": "scenery",
@@ -104,7 +104,7 @@
     "meaning": ["편안", "위로", "위로하다"]
   },
   {
-    "word": "*comport",
+    "word": "comport",
     "meaning": ["행동하다"]
   },
   {
@@ -117,7 +117,7 @@
   },
   {
     "word": "appeal",
-    "meaning": ["관심을끌다"]
+    "meaning": ["관심을 끌다"]
   },
   {
     "word": "proficiency",
@@ -152,20 +152,20 @@
     "meaning": ["자격"]
   },
   {
-    "word": "*qualify",
-    "meaning": ["자격을얻다", "적합하다"]
+    "word": "qualify",
+    "meaning": ["자격을 얻다", "적합하다"]
   },
   {
     "word": "occupant",
     "meaning": ["점유자", "임차인"]
   },
   {
-    "word": "**association",
+    "word": "*association",
     "meaning": ["협회", "제휴"]
   },
   {
-    "word": "*qualifier",
-    "meaning": ["예선전", "예선통과자"]
+    "word": "qualifier",
+    "meaning": ["예선전", "예선 통과자"]
   },
   {
     "word": "proficient",
@@ -189,7 +189,7 @@
   },
   {
     "word": "be admitted to",
-    "meaning": ["~에입장이허용되다"]
+    "meaning": ["~에 입장이 허용되다"]
   },
   {
     "word": "aptitude",
@@ -197,6 +197,6 @@
   },
   {
     "word": "get used to",
-    "meaning": ["~에익숙해지다"]
+    "meaning": ["~에 익숙해지다"]
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "word": "**indication",
+    "word": "*indication",
     "meaning": ["징후"]
   },
   {
@@ -20,7 +20,7 @@
     "meaning": ["무시", "무시하다"]
   },
   {
-    "word": "**lead",
+    "word": "lead",
     "meaning": ["이끌다", "~에 이르다"]
   },
   {
@@ -28,7 +28,7 @@
     "meaning": ["경제적인", "절약되는"]
   },
   {
-    "word": "brisk",
+    "word": "*brisk",
     "meaning": ["호황의", "활발한"]
   },
   {
@@ -44,11 +44,11 @@
     "meaning": ["교환할 수 있는"]
   },
   {
-    "word": "**installment",
+    "word": "*installment",
     "meaning": ["할부"]
   },
   {
-    "word": "**installation",
+    "word": "*installation",
     "meaning": ["설치", "시설", "장치"]
   },
   {
@@ -72,7 +72,7 @@
     "meaning": ["지도자", "지도하다"]
   },
   {
-    "word": "*alter",
+    "word": "alter",
     "meaning": ["변경하다", "고치다"]
   },
   {
@@ -84,7 +84,7 @@
     "meaning": ["모금", "수집품"]
   },
   {
-    "word": "*vendor",
+    "word": "vendor",
     "meaning": ["판매업체", "노점상"]
   },
   {
@@ -104,7 +104,7 @@
     "meaning": ["정확한"]
   },
   {
-    "word": "*envision",
+    "word": "envision",
     "meaning": ["계획하다"]
   },
   {
@@ -112,7 +112,7 @@
     "meaning": ["혁명적인", "혁명가"]
   },
   {
-    "word": "*inquiry",
+    "word": "inquiry",
     "meaning": ["질문", "연구"]
   },
   {
@@ -140,7 +140,7 @@
     "meaning": ["점점 더"]
   },
   {
-    "word": "**absolute",
+    "word": "absolute",
     "meaning": ["완전한", "완벽한"]
   },
   {
@@ -149,18 +149,18 @@
   },
   {
     "word": "chemical",
-    "meaning": ["화학적인", "화학 제품"]
+    "meaning": ["화학적인", "화학제품"]
   },
   {
     "word": "capable",
     "meaning": ["~할 수 있는"]
   },
   {
-    "word": "*protect",
+    "word": "protect",
     "meaning": ["보호하다"]
   },
   {
-    "word": "**provent",
+    "word": "*provent",
     "meaning": ["예방하다", "막다"]
   },
   {
@@ -168,7 +168,7 @@
     "meaning": ["다듬다", "삭감하다"]
   },
   {
-    "word": "**place",
+    "word": "*place",
     "meaning": ["장소", "~한 상태에 두다", "주문을 하다", "순위를 매기다"]
   },
   {
@@ -192,11 +192,11 @@
     "meaning": ["채우다", "충족시키다"]
   },
   {
-    "word": "specification",
+    "word": "*specification",
     "meaning": ["명세서", "설명서"]
   },
   {
-    "word": "**comparable",
+    "word": "comparable",
     "meaning": ["비교할 만한", "유사한"]
   }
 ]
