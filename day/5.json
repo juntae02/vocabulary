@@ -1,6 +1,6 @@
 [
   {
-    "word": "indication",
+    "word": "**indication",
     "meaning": ["징후"]
   },
   {
@@ -20,7 +20,7 @@
     "meaning": ["무시", "무시하다"]
   },
   {
-    "word": "*lead",
+    "word": "**lead",
     "meaning": ["이끌다", "~에 이르다"]
   },
   {
@@ -37,7 +37,7 @@
   },
   {
     "word": "offer",
-    "meaning": ["제공하다", "제안하다", "제안"]
+    "meaning": ["제공하다", "제안하다", "제안", "제공", "할인"]
   },
   {
     "word": "redeemable",
@@ -140,7 +140,7 @@
     "meaning": ["점점 더"]
   },
   {
-    "word": "*absolute",
+    "word": "**absolute",
     "meaning": ["완전한", "완벽한"]
   },
   {
@@ -160,7 +160,7 @@
     "meaning": ["보호하다"]
   },
   {
-    "word": "*provent",
+    "word": "**provent",
     "meaning": ["예방하다", "막다"]
   },
   {
@@ -196,7 +196,7 @@
     "meaning": ["명세서", "설명서"]
   },
   {
-    "word": "comparable",
+    "word": "**comparable",
     "meaning": ["비교할 만한", "유사한"]
   }
 ]

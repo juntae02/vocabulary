@@ -28,7 +28,7 @@
     "meaning": ["제기하다", "제출하다", "정리하다"]
   },
   {
-    "word": "*deserve",
+    "word": "**deserve",
     "meaning": ["~할 가치가 있다"]
   },
   {
@@ -60,11 +60,11 @@
     "meaning": ["추정하다", "맡다"]
   },
   {
-    "word": "*direct",
+    "word": "**direct",
     "meaning": ["직접적인", "지시하다", "길을 안내하다"]
   },
   {
-    "word": "diverse",
+    "word": "**diverse",
     "meaning": ["다양한"]
   },
   {
@@ -104,7 +104,7 @@
     "meaning": ["저항하다", "설명이 불가능하다"]
   },
   {
-    "word": "specifically",
+    "word": "**specifically",
     "meaning": ["분명히", "특별히"]
   },
   {
@@ -144,7 +144,7 @@
     "meaning": ["초점", "집중하다", "집중시키다"]
   },
   {
-    "word": "exclusively",
+    "word": "**exclusively",
     "meaning": ["독점적으로", "오로지"]
   },
   {
@@ -172,7 +172,7 @@
     "meaning": ["재산", "부동산", "소유물"]
   },
   {
-    "word": "impede",
+    "word": "**impede",
     "meaning": ["지연시키다", "방해하다"]
   },
   {
@@ -192,11 +192,11 @@
     "meaning": ["과감한", "급격한"]
   },
   {
-    "word": "*wane",
+    "word": "**wane",
     "meaning": ["감소", "쇠퇴", "약해지다"]
   },
   {
     "word": "remain",
-    "meaning": ["계속 ~한 상태이다", "아직 ~해야 한다"]
+    "meaning": ["계속 ~인 상태이다", "아직 ~해야 한다"]
   }
 ]

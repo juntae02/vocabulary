@@ -25,7 +25,7 @@
   },
   {
     "word": "clear customs",
-    "meaning": ["세관을 통과하다"]
+    "meaning": ["세관을통과하다"]
   },
   {
     "word": "transport",
@@ -160,11 +160,11 @@
     "meaning": ["점유자", "임차인"]
   },
   {
-    "word": "*association",
+    "word": "**association",
     "meaning": ["협회", "제휴"]
   },
   {
-    "word": "qualifier",
+    "word": "*qualifier",
     "meaning": ["예선전", "예선통과자"]
   },
   {

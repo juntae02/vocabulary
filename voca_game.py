@@ -52,4 +52,4 @@ for quiz in words:
         else:
             print("다시 입력하세요\n")
 
-print("모든 문제를 다 풀었습니다!")
+print(f"Day{day} 문제를 다 풀었습니다!")

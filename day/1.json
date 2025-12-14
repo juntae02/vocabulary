@@ -120,8 +120,8 @@
     "meaning": ["관습적인"]
   },
   {
-    "word": "convention",
-    "meaning": ["관습", "대회"]
+    "word": "*convention",
+    "meaning": ["관습", "대회", "협약"]
   },
   {
     "word": "govern",
@@ -140,7 +140,7 @@
     "meaning": ["선언"]
   },
   {
-    "word": "*constitute",
+    "word": "constitute",
     "meaning": ["구성하다"]
   },
   {
@@ -156,7 +156,7 @@
     "meaning": ["기관", "협회"]
   },
   {
-    "word": "*institute",
+    "word": "institute",
     "meaning": ["기관", "협회", "도입하다"]
   },
   {

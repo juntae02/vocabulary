@@ -4,7 +4,7 @@
     "meaning": ["논쟁적인", "논쟁을 좋아하는"]
   },
   {
-    "word": "applaud",
+    "word": "*applaud",
     "meaning": ["칭찬하다", "박수를 보내다"]
   },
     {
@@ -12,7 +12,7 @@
     "meaning": ["보증", "보증서", "보장하다"]
   },
   {
-    "word": "specific",
+    "word": "*specific",
     "meaning": ["구체적인", "특정한"]
   },
   {
@@ -32,7 +32,7 @@
     "meaning": ["위원회"]
   },
   {
-    "word": "commit",
+    "word": "*commit",
     "meaning": ["헌신하다", "약속하다"]
   },
   {
@@ -76,7 +76,7 @@
     "meaning": ["신고하다", "선언하다"]
   },
   {
-    "word": "indulge",
+    "word": "*indulge",
     "meaning": ["마음껏 하다", "빠지다"]
   },
   {
@@ -100,7 +100,7 @@
     "meaning": ["항공사", "수송 회사"]
   },
   {
-    "word": "*pending",
+    "word": "**pending",
     "meaning": ["임박한", "미결정의", "보류 중인"]
   },
   {
@@ -116,7 +116,7 @@
     "meaning": ["계약 조건"]
   },
   {
-    "word": "agreement",
+    "word": "*agreement",
     "meaning": ["계약", "합의"]
   },
   {
@@ -136,67 +136,67 @@
     "meaning": ["제휴", "동맹"]
   },
   {
-    "word": "",
-    "meaning": [""]
+    "word": "recipient",
+    "meaning": ["수령인"]
   },
   {
-    "word": "",
-    "meaning": [""]
+    "word": "*prominent",
+    "meaning": ["두드러진", "유명한"]
   },
   {
-    "word": "",
-    "meaning": [""]
+    "word": "permanent",
+    "meaning": ["영구적인"]
   },
   {
-    "word": "",
-    "meaning": [""]
+    "word": "*present",
+    "meaning": ["현재의", "참석한", "발표하다", "제시하다", "주다"]
   },
   {
-    "word": "",
-    "meaning": [""]
+    "word": "*settle",
+    "meaning": ["해결하다", "결정하다", "정착하다"]
   },
   {
-    "word": "",
-    "meaning": [""]
+    "word": "*assure",
+    "meaning": ["보장하다", "안심시키다"]
   },
   {
-    "word": "",
-    "meaning": [""]
+    "word": "*affordability",
+    "meaning": ["감당할 수 있는 비용"]
   },
   {
-    "word": "",
-    "meaning": [""]
+    "word": "*represent",
+    "meaning": ["대표하다", "나타내다"]
   },
   {
-    "word": "",
-    "meaning": [""]
+    "word": "*bargain",
+    "meaning": ["특가품", "흥정", "흥정하다"]
   },
   {
-    "word": "",
-    "meaning": [""]
+    "word": "encompass",
+    "meaning": ["포함하다", "둘러싸다"]
   },
   {
-    "word": "",
-    "meaning": [""]
+    "word": "*consignment",
+    "meaning": ["위탁 판매"]
   },
   {
-    "word": "",
-    "meaning": [""]
+    "word": "commodity",
+    "meaning": ["상품"]
   },
   {
-    "word": "",
-    "meaning": [""]
+    "word": "rating",
+    "meaning": ["등급", "평가"]
   },
   {
-    "word": "",
-    "meaning": [""]
+    "word": "*acclaim",
+    "meaning": ["찬사", "찬사를 보내다"]
   },
   {
-    "word": "",
-    "meaning": [""]
+    "word": "**courier",
+    "meaning": ["택배 회사", "배달원"]
   },
   {
-    "word": "",
-    "meaning": [""]
+    "word": "correspondence",
+    "meaning": ["편지", "통신문"]
   }
 ]
