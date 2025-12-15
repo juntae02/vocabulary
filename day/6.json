@@ -45,7 +45,7 @@
   },
   {
     "word": "courteous",
-    "meaning": ["예의 바른"]
+    "meaning": ["예의바른"]
   },
   {
     "word": "biography",
@@ -96,8 +96,8 @@
     "meaning": ["최고의"]
   },
   {
-    "word": "*carrier",
-    "meaning": ["항공사", "수송 회사"]
+    "word": "**carrier",
+    "meaning": ["항공사", "수송회사"]
   },
   {
     "word": "*pending",
@@ -140,7 +140,7 @@
     "meaning": ["수령인"]
   },
   {
-    "word": "*prominent",
+    "word": "**prominent",
     "meaning": ["두드러진", "유명한"]
   },
   {
@@ -148,7 +148,7 @@
     "meaning": ["영구적인"]
   },
   {
-    "word": "*present",
+    "word": "**present",
     "meaning": ["현재의", "참석한", "발표하다", "제시하다", "주다"]
   },
   {
@@ -192,7 +192,7 @@
     "meaning": ["찬사", "찬사를 보내다"]
   },
   {
-    "word": "*courier",
+    "word": "**courier",
     "meaning": ["택배회사", "배달원"]
   },
   {
