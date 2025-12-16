@@ -1,14 +1,14 @@
 [
   {
-    "word": "suggest",
-    "meaning": ["제안하다", "암시하다"]
+    "word": "*transmit",
+    "meaning": ["전달하다", "감염시키다"]
   },
   {
     "word": "appraise",
     "meaning": ["평가하다"]
   },
     {
-    "word": "*competent",
+    "word": "**competent",
     "meaning": ["능숙한", "권한이 있는"]
   },
   {
@@ -20,7 +20,7 @@
     "meaning": ["예외적인", "뛰어난"]
   },
   {
-    "word": "*praise",
+    "word": "**praise",
     "meaning": ["칭찬", "칭찬하다"]
   },
   {
@@ -36,23 +36,23 @@
     "meaning": ["임명하다", "정하다"]
   },
   {
-    "word": "*deliberation",
+    "word": "**deliberation",
     "meaning": ["토의", "심사숙고"]
   },
   {
-    "word": "*deliberate",
+    "word": "**deliberate",
     "meaning": ["심사숙고하다", "신중한", "고의의"]
   },
   {
-    "word": "resignation",
-    "meaning": ["사직", "사직서"]
+    "word": "transaction",
+    "meaning": ["거래", "처리"]
   },
   {
     "word": "transfer",
     "meaning": ["전근시키다", "보내다"]
   },
   {
-    "word": "radically",
+    "word": "**radically",
     "meaning": ["완전히"]
   },
   {
@@ -64,7 +64,7 @@
     "meaning": ["완화하다"]
   },
   {
-    "word": "*aggravate",
+    "word": "**aggravate",
     "meaning": ["악화시키다"]
   },
   {
@@ -72,7 +72,7 @@
     "meaning": ["반대", "반대의", "뒤집다", "되돌리다"]
   },
   {
-    "word": "*overturn",
+    "word": "**overturn",
     "meaning": ["뒤집다"]
   },
   {
@@ -80,15 +80,15 @@
     "meaning": ["교통 수단", "운송"]
   },
   {
-    "word": "diversion",
+    "word": "*diversion",
     "meaning": ["전환", "우회로"]
   },
   {
-    "word": "*diverge",
+    "word": "**diverge",
     "meaning": ["나뉘다", "갈라지다"]
   },
   {
-    "word": "*deviate",
+    "word": "**deviate",
     "meaning": ["벗어나다"]
   },
   {
@@ -132,7 +132,7 @@
     "meaning": ["자동차"]
   },
   {
-    "word": "automatic",
+    "word": "*automatic",
     "meaning": ["자동의"]
   },
   {
@@ -156,7 +156,7 @@
     "meaning": ["대안", "대안의"]
   },
   {
-    "word": "pleasure",
+    "word": "**pleasure",
     "meaning": ["즐거움"]
   },
   {
@@ -173,7 +173,7 @@
   },
   {
     "word": "balance",
-    "meaning": ["잔액", "균형", "균형을 유지하다"]
+    "meaning": ["잔액", "균형", "균형을 맞추다"]
   },
   {
     "word": "due to V",
@@ -184,15 +184,15 @@
     "meaning": ["양", "총액"]
   },
   {
-    "word": "amount to",
+    "word": "**amount to",
     "meaning": ["~에 이르다"]
   },
   {
-    "word": "admission",
+    "word": "**admission",
     "meaning": ["입장", "인정"]
   },
   {
-    "word": "allowance",
+    "word": "*allowance",
     "meaning": ["비용", "허용량"]
   },
   {

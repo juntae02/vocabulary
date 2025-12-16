@@ -1,10 +1,10 @@
 [
   {
-    "word": "transaction",
-    "meaning": ["거래", "처리"]
+    "word": "resignation",
+    "meaning": ["사직", "사직서"]
   },
   {
-    "word": "withdrawal",
+    "word": "*withdrawal",
     "meaning": ["인출", "철회"]
   },
     {
@@ -52,7 +52,7 @@
     "meaning": ["추측하다"]
   },
   {
-    "word": "prevalent",
+    "word": "**prevalent",
     "meaning": ["널리 퍼진", "일반적인"]
   },
   {
@@ -64,19 +64,19 @@
     "meaning": ["수익성 좋은"]
   },
   {
-    "word": "gratitude",
+    "word": "*gratitude",
     "meaning": ["고마움"]
   },
   {
-    "word": "depreciation",
+    "word": "**depreciation",
     "meaning": ["가치 하락"]
   },
   {
-    "word": "yield",
+    "word": "*yield",
     "meaning": ["수익률", "수익을 내다", "생산하다", "양보하다"]
   },
   {
-    "word": "entrepreneur",
+    "word": "*entrepreneur",
     "meaning": ["사업가"]
   },
   {
@@ -84,7 +84,7 @@
     "meaning": ["이전", "재배치"]
   },
   {
-    "word": "suppose",
+    "word": "**suppose",
     "meaning": ["추측하다", "생각하다"]
   },
   {
@@ -92,7 +92,7 @@
     "meaning": ["근접한"]
   },
   {
-    "word": "renewal",
+    "word": "*renewal",
     "meaning": ["갱신", "재개발"]
   },
   {
@@ -104,7 +104,7 @@
     "meaning": ["완전히"]
   },
   {
-    "word": "interfere",
+    "word": "*interfere",
     "meaning": ["방해하다"]
   },
   {
@@ -112,12 +112,12 @@
     "meaning": ["의무적인"]
   },
   {
-    "word": "appropriate",
+    "word": "*appropriate",
     "meaning": ["적절한", "도용하다"]
   },
   {
-    "word": "drape",
-    "meaning": ["장식하다"]
+    "word": "**suggest",
+    "meaning": ["제안하다", "암시하다"]
   },
   {
     "word": "residence",
@@ -128,11 +128,11 @@
     "meaning": ["~로 구성되다"]
   },
   {
-    "word": "consist in",
+    "word": "**consist in",
     "meaning": ["~에 존재하다"]
   },
   {
-    "word": "pleasing",
+    "word": "*pleasing",
     "meaning": ["즐거운", "만족스러운"]
   },
   {
@@ -144,11 +144,11 @@
     "meaning": ["가뭄"]
   },
   {
-    "word": "deplete",
+    "word": "**deplete",
     "meaning": ["고갈시키다"]
   },
   {
-    "word": "extinction",
+    "word": "*extinction",
     "meaning": ["멸종"]
   },
   {
@@ -156,19 +156,19 @@
     "meaning": ["방해하다"]
   },
   {
-    "word": "inflict",
-    "meaning": ["피해를 입히다", "피해를 가하다"]
+    "word": "**inflict",
+    "meaning": ["피해를 입히다"]
   },
   {
     "word": "preserve",
     "meaning": ["보존하다", "유지하다"]
   },
   {
-    "word": "conserve",
+    "word": "*conserve",
     "meaning": ["보존하다", "절약하다"]
   },
   {
-    "word": "mark",
+    "word": "*mark",
     "meaning": ["표시", "점수", "표시하다", "기념하다"]
   },
   {

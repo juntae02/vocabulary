@@ -1,6 +1,6 @@
 [
   {
-    "word": "discharge",
+    "word": "*discharge",
     "meaning": ["방출하다", "해고하다", "의무를 다하다"]
   },
   {
@@ -8,15 +8,15 @@
     "meaning": ["이상적인"]
   },
     {
-    "word": "examination",
+    "word": "*examination",
     "meaning": ["조사", "진찰", "시험"]
   },
   {
-    "word": "susceptible",
+    "word": "*susceptible",
     "meaning": ["영향 받기 쉬운", "민감한"]
   },
   {
-    "word": "conscious",
+    "word": "*conscious",
     "meaning": ["알고 있는"]
   },
   {
@@ -32,7 +32,7 @@
     "meaning": ["피로"]
   },
   {
-    "word": "deprivation",
+    "word": "*deprivation",
     "meaning": ["박탈", "부족"]
   },
   {
@@ -44,8 +44,8 @@
     "meaning": ["외과 의사"]
   },
   {
-    "word": "transmit",
-    "meaning": ["전달하다", "감염시키다"]
+    "word": "drape",
+    "meaning": ["장식하다"]
   },
   {
     "word": "symptom",
@@ -56,11 +56,11 @@
     "meaning": ["진단"]
   },
   {
-    "word": "diagnose",
+    "word": "*diagnose",
     "meaning": ["진단하다"]
   },
   {
-    "word": "duration",
+    "word": "*duration",
     "meaning": ["지속 기간"]
   },
   {
