@@ -4,7 +4,7 @@
     "meaning": ["기관", "협회", "도입하다"]
   },
   {
-    "word": "*impose",
+    "word": "impose",
     "meaning": ["부과하다", "도입하다"]
   },
     {
@@ -32,11 +32,11 @@
     "meaning": ["~하는 경향이 있다"]
   },
   {
-    "word": "*consistent with",
+    "word": "consistent with",
     "meaning": ["~와 일치하는"]
   },
   {
-    "word": "*consistent in",
+    "word": "consistent in",
     "meaning": ["일관된"]
   },
   {
@@ -44,7 +44,7 @@
     "meaning": ["과잉", "초과량", "초과한"]
   },
   {
-    "word": "*discharge",
+    "word": "discharge",
     "meaning": ["방출하다", "해고하다", "의무를 다하다"]
   },
   {
@@ -68,11 +68,11 @@
     "meaning": ["분명히", "특별히"]
   },
   {
-    "word": "*impede",
+    "word": "impede",
     "meaning": ["지연시키다", "방해하다"]
   },
   {
-    "word": "*exclusively",
+    "word": "exclusively",
     "meaning": ["독점적으로", "오로지"]
   },
   {
@@ -124,7 +124,7 @@
     "meaning": ["임박한", "미결정의", "보류중인"]
   },
   {
-    "word": "*specific",
+    "word": "specific",
     "meaning": ["구체적인", "특정한"]
   },
   {
@@ -144,7 +144,7 @@
     "meaning": ["해결하다", "결정하다", "정착하다"]
   },
   {
-    "word": "*acclaim",
+    "word": "acclaim",
     "meaning": ["찬사", "찬사를 보내다"]
   },
   {
@@ -152,8 +152,8 @@
     "meaning": ["특정한", "확실한"]
   },
   {
-    "word": "recipient",
-    "meaning": ["수령인"]
+    "word": "consensus",
+    "meaning": ["일치된 의견", "합의"]
   },
   {
     "word": "courier",
@@ -180,7 +180,7 @@
     "meaning": ["공제하다", "빼다"]
   },
   {
-    "word": "**conscious",
+    "word": "conscious",
     "meaning": ["알고 있는"]
   },
   {

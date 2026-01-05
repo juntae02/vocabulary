@@ -12,15 +12,15 @@
     "meaning": ["독특한"]
   },
   {
-    "word": "*commence",
+    "word": "commence",
     "meaning": ["시작되다"]
   },
   {
-    "word": "*adjourn",
+    "word": "adjourn",
     "meaning": ["휴회하다", "중단하다"]
   },
   {
-    "word": "**commend",
+    "word": "commend",
     "meaning": ["칭찬하다", "추천하다"]
   },
   {
@@ -28,7 +28,7 @@
     "meaning": ["연기하다"]
   },
   {
-    "word": "**constrain",
+    "word": "constrain",
     "meaning": ["제한하다", "강요하다"]
   },
   {
@@ -40,7 +40,7 @@
     "meaning": ["결정하다", "밝히다"]
   },
   {
-    "word": "*premier",
+    "word": "premier",
     "meaning": ["최고의"]
   },
   {
@@ -60,19 +60,19 @@
     "meaning": ["압축한", "요약한"]
   },
   {
-    "word": "*assert",
+    "word": "assert",
     "meaning": ["주장하다"]
   },
   {
-    "word": "*initiative",
+    "word": "initiative",
     "meaning": ["계획", "주도권", "솔선수범"]
   },
   {
-    "word": "*amount to",
+    "word": "amount to",
     "meaning": ["~에 이르다"]
   },
   {
-    "word": "**transfer",
+    "word": "transfer",
     "meaning": ["전근시키다", "보내다"]
   },
   {
@@ -104,7 +104,7 @@
     "meaning": ["토의", "심사숙고"]
   },
   {
-    "word": "*radically",
+    "word": "radically",
     "meaning": ["완전히"]
   },
   {
@@ -112,7 +112,7 @@
     "meaning": ["전달하다", "감염시키다"]
   },
   {
-    "word": "**competent",
+    "word": "competent",
     "meaning": ["능숙한", "권한이 있는"]
   },
   {
@@ -124,7 +124,7 @@
     "meaning": ["평가하다"]
   },
   {
-    "word": "**aggravate",
+    "word": "aggravate",
     "meaning": ["악화시키다"]
   },
   {
@@ -132,7 +132,7 @@
     "meaning": ["칭찬", "칭찬하다"]
   },
   {
-    "word": "*diverge",
+    "word": "diverge",
     "meaning": ["나뉘다", "갈라지다"]
   },
   {
@@ -156,7 +156,7 @@
     "meaning": ["방해하다"]
   },
   {
-    "word": "consist in",
+    "word": "*consist in",
     "meaning": ["~에 존재하다"]
   },
   {
@@ -168,7 +168,7 @@
     "meaning": ["고갈시키다"]
   },
   {
-    "word": "*inflict",
+    "word": "inflict",
     "meaning": ["피해를 입히다"]
   },
   {
